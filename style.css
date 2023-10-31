@@ -14,3 +14,11 @@
     padding: 15px;
     margin-top: 10px;
 }
+
+.btn-danger {
+    border-radius: 50px !important;
+}
+
+.toolsImg {
+    margin: 15px 0;
+}
